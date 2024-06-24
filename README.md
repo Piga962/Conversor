@@ -5,7 +5,7 @@ This project is about a currency converter. It offers you the ability to convert
 
 #Access
 In your IDE open your terminal and in any folder enter the next command
-`git clone `
+`git clone https://github.com/Piga962/Conversor.git`
 
 #How to run it
 First you need to download the code and after that you should be able to run the code in you IDE.
